@@ -3,6 +3,7 @@ function slidesPlugin(activeSlide = 0) {
 
     slides[activeSlide].classList.add('active')
     fehfoshd
+    fkweofh
 
     for (const slide of slides) {
         slide.addEventListener('click', () => {
